@@ -2162,7 +2162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7a334123fe54594582eca6e9d1b7cb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FinalScore: {fileID: 0}
+  FinalScore: {fileID: 1127986972}
   _scoreText: {fileID: 1027668402}
   _count: 0
   gameMusic: {fileID: 963194229}
